@@ -18,4 +18,5 @@ logging.basicConfig(
         logging.StreamHandler(sys.stdout)
     ]
 )
-logger = logging.getLogger("mlops")
+
+logger = logging.getLogger("Mlops")
